@@ -1,5 +1,5 @@
 # minigrep
-* A lightweight implementation of the Global Regular Expression Print command-line utility. In other words, this is a tool that can be used to search for text/regex patterns insideof files.
+* A lightweight implementation of the Global Regular Expression Print command-line utility. In other words, this is a tool that can be used to search for text/regex patterns inside of files.
 
 ## Development Environment:
 * Lenovo T14 Gen 6 (x86_64)

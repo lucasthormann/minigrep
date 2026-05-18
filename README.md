@@ -18,7 +18,7 @@
 git clone https://github.com/lucasthormann/minigrep.git
 ```
 
-2. Run the following command to test the tool
+2. Run the following command to use the tool
 ```
 cargo run *query* *path to file*
 ```

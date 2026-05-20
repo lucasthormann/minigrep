@@ -28,4 +28,6 @@ cargo run -- know src/poem.txt > output.txt
 ```
 
 3. View contents of the output file
+```
 cat output.txt
+```

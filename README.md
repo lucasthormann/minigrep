@@ -11,6 +11,9 @@
 * Git 2.43.0 or newer
 * Cargo 1.92.0 or newer
 
+## Target Environment
+* Ubuntu 26.04 (x86_64)
+
 # How to Run
 
 1. Clone the repo

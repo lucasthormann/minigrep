@@ -23,11 +23,11 @@ git clone https://github.com/lucasthormann/minigrep.git
 
 2. Run the following command to use the tool
 ```
-cargo run -- *query* *path to file* > output.txt
+cargo run --release -- *query* *path to file* > output.txt
 ```
 i.e.
 ```
-cargo run -- know src/poem.txt > output.txt
+cargo run --release -- know src/poem.txt > output.txt
 ```
 
 3. View contents of the output file
